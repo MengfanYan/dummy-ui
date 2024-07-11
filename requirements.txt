@@ -1,0 +1,6 @@
+streamlit
+boto3
+pandas
+python-docx
+pymupdf
+python-dotenv
