@@ -5,3 +5,4 @@ python-docx
 pymupdf
 python-dotenv
 pyodbc
+databricks
