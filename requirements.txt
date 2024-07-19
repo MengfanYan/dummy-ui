@@ -6,3 +6,6 @@ pymupdf
 python-dotenv
 pyodbc
 databricks-api
+botocore
+databricks-sql-connector
+databricks
