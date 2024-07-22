@@ -9,3 +9,4 @@ databricks-api
 botocore
 databricks-sql-connector
 databricks
+pyarrow
