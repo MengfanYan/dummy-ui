@@ -10,3 +10,4 @@ botocore
 databricks-sql-connector
 databricks
 pyarrow
+numpy<2
